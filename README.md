@@ -123,7 +123,3 @@ Open http://localhost:5001 to view and compare experiment runs.
 - **MLflow 3.10.1** — Experiment tracking, model logging, model registry
 - **scikit-learn** — GradientBoostingRegressor, train/test split, evaluation metrics
 - **pandas / numpy** — Data handling
-
-## Author
-
-Chitra Pahuja — M.S. Data Analytics Engineering, Northeastern University
