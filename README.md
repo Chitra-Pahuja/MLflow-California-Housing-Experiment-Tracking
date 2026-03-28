@@ -1,4 +1,4 @@
-# MLflow Experiment Tracking - California Housing Price Prediction
+# MLflow Experiment Tracking — California Housing Price Prediction
 
 This project demonstrates **MLflow Experiment Tracking** using the California Housing dataset with a Gradient Boosting Regressor. The pipeline trains multiple models with different hyperparameter configurations, logs everything to MLflow, and enables side-by-side comparison through the MLflow UI.
 
@@ -97,6 +97,10 @@ mlflow ui --backend-store-uri sqlite:///mlflow.db --port 5001
 ```
 
 Open http://localhost:5001 to view and compare experiment runs.
+
+## MLflow Dashboard
+
+![MLflow Training Runs](MLflow%20dashboard.png)
 
 ## Experiment Results
 
